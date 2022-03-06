@@ -4,10 +4,6 @@ body {
     background: linear-gradient(0deg, #fff, #eae6ff 100%);
 }
 
-header {
-    /* background: linear-gradient(0deg, #fff, #eae6ff 100%); */
-}
-
 .container {
     width: 100%;
     margin: auto;
@@ -18,11 +14,12 @@ a {
 }
 
 .sec-1 {
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
-.sec-1-txt-1 {
+.txt-header {
     font-weight: 800;
+    font-size: 35px;
 }
 
 .imgtransition {

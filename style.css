@@ -1,7 +1,7 @@
 body {
     font-family: 'Montserrat', 'sans-serif';
     color: #172b4d;
-    /* background: linear-gradient(0deg, #fff, #eae6ff 100%); */
+    background: linear-gradient(0deg, #fff, #eae6ff 100%);
 }
 
 header {
@@ -19,4 +19,16 @@ a {
 
 .sec-1 {
     margin-top: 150px;
+}
+
+.sec-1-txt-1 {
+    font-weight: 800;
+}
+
+.imgtransition {
+    transition: transform .2s;
+}
+
+.imgtransition:hover {
+    transform: scale(1.1);
 }

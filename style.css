@@ -19,7 +19,8 @@ a {
 
 .txt-header {
     font-weight: 800;
-    font-size: 35px;
+    font-size: 30px;
+    line-height: 1.33333333;
 }
 
 .imgtransition {
@@ -28,4 +29,8 @@ a {
 
 .imgtransition:hover {
     transform: scale(1.1);
+}
+
+.sec-4 button:hover {
+    text-decoration: underline;
 }

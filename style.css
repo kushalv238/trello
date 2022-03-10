@@ -5,10 +5,10 @@ body {
     
 }
 
-.container {
+/* .container {
     width: 100%;
     margin: auto;
-}
+} */
 
 a {
     text-decoration: none;
@@ -34,4 +34,12 @@ a {
 
 .sec-4 button:hover {
     text-decoration: underline;
+}
+
+.sec-6 {
+    background-color: #e6fcff;
+}
+
+.el {
+    margin: -6px;
 }
